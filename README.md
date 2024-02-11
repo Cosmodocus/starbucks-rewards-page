@@ -1,15 +1,15 @@
-:starbucks: Starbucks Rewards Page
-:computer: Tech Stack
+##☕ Starbucks Rewards Page
+#💻 Tech Stack
 React with Vite
 Tailwind CSS
 React-Icons
-:hammer_and_wrench: Methods
+#🛠 Methods
 Component structuring
 Conditional Rendering
 Dynamic Classes
 State Management with useState
-onClick event Listener
-:rocket: Future Implementations
+onClick event Listeneideasidn
+#💡Future Implementations
 Fix up certain awkward whitespaces, or lack of
 Maybe change the font family
 Add a fade transition animation to the tabbed section
