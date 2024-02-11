@@ -1,8 +1,17 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+:starbucks: Starbucks Rewards Page
+:computer: Tech Stack
+React with Vite
+Tailwind CSS
+React-Icons
+:hammer_and_wrench: Methods
+Component structuring
+Conditional Rendering
+Dynamic Classes
+State Management with useState
+onClick event Listener
+:rocket: Future Implementations
+Fix up certain awkward whitespaces, or lack of
+Maybe change the font family
+Add a fade transition animation to the tabbed section
+Add a dropdown/accordion mobile menu in the footer section
+Add no scroll + background fade to the mobile navbar
