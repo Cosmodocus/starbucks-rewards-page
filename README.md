@@ -1,4 +1,4 @@
-☕ Starbucks Rewards Page
+#☕ Starbucks Rewards Page
 💻 Tech Stack
 React with Vite
 Tailwind CSS
